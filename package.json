@@ -22,11 +22,9 @@
   ],
   "author": "SuperInstance Team",
   "license": "MIT",
-  "dependencies": {
-    "@superinstance/starter-agent": "^1.0.0"
-  },
   "devDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.0",
+    "vitest": "^4.1.4"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
