@@ -3,7 +3,7 @@
  */
 
 import { describe, it, expect, beforeEach } from 'vitest';
-import { NLPExplainer, ConfidenceExplainer, LogicTranslator, createExplainer, explain, explainConfidence, explainDecision } from '../index';
+import { NLPExplainer, ConfidenceExplainer, createExplainer, explain, explainConfidence, explainDecision } from '../index';
 import type { LogicPattern, ConfidenceFactor } from '../index';
 
 // Helper to create a simple pattern
