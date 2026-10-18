@@ -1,6 +1,6 @@
 {
   "name": "@superinstance/equipment-nlp-explainer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Equipment that generates human-readable descriptions of cell logic and operations",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/superinstance/equipment-nlp-explainer.git"
+    "url": "git+https://github.com/SuperInstance/equipment-nlp-explainer.git"
   },
   "bugs": {
     "url": "https://github.com/superinstance/equipment-nlp-explainer/issues"
